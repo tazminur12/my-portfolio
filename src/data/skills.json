@@ -1,0 +1,84 @@
+[
+  {
+    "category": "Frontend",
+    "icon": "FaCode",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "DaisyUI",
+      "Tailwind CSS",
+      "HTML5/CSS3",
+      "Framer Motion"
+    ]
+  },
+  {
+    "category": "Backend",
+    "icon": "FaServer",
+    "skills": [
+      "Node.js",
+      "Express",
+      "NestJS",
+      "Python",
+      "RESTful APIs",
+      "Authentication"
+    ]
+  },
+  {
+    "category": "Database",
+    "icon": "FaDatabase",
+    "skills": [
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Firebase",
+      "Prisma",
+      "Mongoose"
+    ]
+  },
+  {
+    "category": "Deployment",
+    "icon": "FaCloudUploadAlt",
+    "skills": [
+      "AWS",
+      "Vercel",
+      "Netlify",
+      "TanStack React Query",
+      "Vite",
+      "Firebase Hosting (by Google)",
+      "Cloudflare Pages"
+    ]
+  },
+  {
+    "category": "Tools",
+    "icon": "FaTools",
+    "skills": [
+      "Git/GitHub",
+      "VS Code",
+      "Figma",
+      "Postman",
+      "Webpack",
+      "Jest",
+      "Cypress",
+      "Storybook"
+    ]
+  },
+  {
+    "category": "Other",
+    "icon": "FaCogs",
+    "skills": [
+      "Blockchain",
+      "Web3",
+      "JWT (JSON Web Token)",
+      "Axios with Token Authorization",
+      "Secure APIs (verifyFBToken)",
+      "Machine Learning",
+      "TensorFlow",
+      "Strip ",
+      "Web Scraping",
+      "Chrome Extensions",
+      "Figma (basic)"
+    ]
+  }
+]

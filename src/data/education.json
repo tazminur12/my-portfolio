@@ -1,0 +1,17 @@
+{
+  "sectionTitle": "Educational Qualification",
+  "qualifications": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institute": "University of Liberal Arts of Bangladesh (ULAB)",
+      "year": "2024 - 2028",
+      "location": "Mohammadpur,Dhaka"
+    },
+    {
+      "degree": "Higher Secondary Certificate (HSC)",
+      "institute": "Ideal College,Dhanmondi",
+      "year": "2022 - 2023",
+      "location": "Dhanmondi,Dhaka"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "title": "Pickabox — Modern E-commerce Frontend",
+    "description": "A sleek, responsive frontend for a full-featured e-commerce platform, built with React and Firebase. It showcases smooth animations powered by Framer Motion and leverages JSON data for dynamic content rendering.",
+    "fullDescription": "Pickabox is a modern, intuitive e-commerce frontend designed to deliver an engaging shopping experience. Built using React for seamless UI rendering, Firebase for authentication and backend support, and Framer Motion for fluid animations, this project demonstrates best practices in frontend development. It features dynamic product listings driven by JSON data, smooth transitions, and a clean interface focused on usability and performance.",
+    "technologies": ["React", "Firebase", "Framer Motion", "JSON Data Handling"],
+    "image": "/Pickabox/Home.png",
+    "additionalImages": ["/Pickabox/Home.png", "/Pickabox/products.png"],
+    "features": [
+      "Dynamic product catalog with filtering and search capabilities",
+      "User authentication powered by Firebase",
+      "Smooth UI animations enhancing user engagement",
+      "Responsive design optimized for multiple devices",
+      "Intuitive navigation and product browsing"
+    ],
+    "challenges": [
+      {
+        "problem": "Efficiently rendering and updating product data from JSON",
+        "solution": "Leveraged React’s state management combined with JSON parsing for real-time UI updates"
+      },
+      {
+        "problem": "Creating engaging yet performant animations",
+        "solution": "Used Framer Motion to add smooth transitions without compromising app responsiveness"
+      }
+    ],
+    "githubUrl": "https://github.com/tazminur12/pickabox-2",
+    "liveUrl": "https://pickabox-2.netlify.app/"
+  },
+  {
+    "id": 2,
+    "title": "Personal Portfolio Website",
+    "description": "A modern, responsive portfolio to showcase projects, skills, and professional experience.",
+    "fullDescription": "This personal portfolio website is built with React and enhanced with multiple npm animation libraries including Framer Motion and others to create engaging, smooth, and visually appealing user experiences. It highlights my projects, skills, and provides a contact form for easy communication. Designed with responsiveness and performance in mind, it ensures a seamless experience across all devices.",
+    "technologies": ["React", "Tailwind CSS", "Framer Motion", "Additional animation npm libraries"],
+    "image": "/Portfolio/Home.png",
+    "additionalImages": ["/Portfolio/Home.png", "/Portfolio/Project.png", "/Portfolio/Skills.png", "/Portfolio/Conact.png"],
+    "features": [
+      "Dark/Light mode toggle for user preference",
+      "Animated page transitions and element effects using multiple animation libraries",
+      "Project gallery with dynamic filtering and smooth animations",
+      "Fully functional contact form integrated with email service",
+      "Responsive design optimized for desktops, tablets, and mobiles"
+    ],
+    "challenges": [
+      {
+        "problem": "Maintaining high performance on low-end devices despite rich animations",
+        "solution": "Implemented optimized image handling with lazy loading and minimized animation overhead"
+      }
+    ],
+    "githubUrl": "https://github.com/yourusername/portfolio",
+    "liveUrl": "https://yourportfolio.com"
+  },
+  {
+    "id": 3,
+    "title": "BookWeb — Simple Library Management System",
+    "description": "A responsive and functional frontend for managing books in a digital library. Built with React, Tailwind CSS, and DaisyUI.",
+    "fullDescription": "BookWeb is a lightweight and intuitive library management system frontend that allows users to browse available books, borrow them, and return them with ease. Built using React for component-driven architecture, styled with Tailwind CSS and DaisyUI for clean and responsive design, the app demonstrates core frontend functionality in a real-world context. It is ideal for schools, small libraries, or academic demos.",
+    "technologies": ["React", "Tailwind CSS", "DaisyUI"],
+    "image": "/Libary Management/Home.png",
+    "additionalImages": ["/Libary Management/Book.png", "/Libary Management/BookDetails.png", "/Libary Management/BookWish.png"],
+    "features": [
+      "Browse and search available books in the library",
+      "Borrow and return books functionality with visual feedback",
+      "Responsive design for mobile, tablet, and desktop",
+      "Clean and consistent UI using Tailwind CSS and DaisyUI",
+      "Live hosted demo for testing and showcasing"
+    ],
+    "challenges": [
+      {
+        "problem": "Handling book borrowing and return logic in UI state",
+        "solution": "Used React’s state and conditional rendering to dynamically update book status and reflect changes"
+      },
+      {
+        "problem": "Building UI quickly while maintaining design quality",
+        "solution": "Used DaisyUI components integrated with Tailwind for rapid, clean interface development"
+      }
+    ],
+    "githubUrl": "https://github.com/tazminur12/bookWebsite?tab=readme-ov-file",
+    "liveUrl": "https://book-web11.netlify.app/"
+  },
+  {
+    "id": 4,
+    "title": "PlantPulse Tracker",
+    "description": "Plant care reminder app",
+    "fullDescription": "PlantPulse is an intelligent plant care reminder application that helps users manage their plant collection with ease. It offers personalized plant profiles, care tracking, and dashboard-based organization—all while using Firebase for secure authentication and storage.",
+    "technologies": ["React", "Firebase", "Tailwind CSS", "DaisyUI", "Recharts", "MongoDB", "Node.js"],
+    "image": "/Plant-Pulse/Home.png",
+    "additionalImages": ["/Plant-Pulse/ALl Plant.png", "/Plant-Pulse/My Plant.png"],
+    "features": [
+      "Firebase Authentication with secure login/register system",
+      "Add, update, and delete personal plant profiles",
+      "User-specific dashboard showing only added plants",
+      "Care reminders: watering, sunlight needs, health tracking",
+      "Responsive design with Tailwind CSS and dark mode toggle",
+      "Public All Plants page with sorting and filtering",
+      "Stats cards on dashboard showing item counts",
+      "Landing page with hero, newsletter, top-rated plants, blog section, etc.",
+      "Error handling with professional 404 page"
+    ],
+    "challenges": [
+      {
+        "problem": "Storing image and reminder data",
+        "solution": "Used Firebase Storage to upload images and Firestore for storing structured plant data"
+      }
+    ],
+    "futurePlans": [
+      "Push notifications for upcoming plant care reminders",
+      "Favorites system to bookmark plants",
+      "Admin panel for managing public items"
+    ],
+    "githubUrl": "https://github.com/tazminur12/PlantPulse",
+    "liveUrl": "https://plant-pulse2.netlify.app/"
+  },
+  {
+    "id": 5,
+    "title": "Lawyer Booking App",
+    "description": "Appointment booking platform for lawyers",
+    "fullDescription": "Users can browse lawyer profiles, view reviews, and schedule appointments. Admin dashboard for managing appointments and lawyer data.",
+    "technologies": ["React", "Tailwind CSS", "DaisyUI", "Recharts"],
+    "image": "/LawFirm/Home.png",
+    "additionalImages": ["/LawFirm/Lawyer.png", "/LawFirm/Price.png"],
+    "features": [
+      "Lawyer profile system",
+      "User registration and booking",
+      "Admin management panel",
+      "Email confirmations"
+    ],
+    "challenges": [
+      {
+        "problem": "Handling overlapping appointments",
+        "solution": "Checked time conflict logic during booking submission"
+      }
+    ],
+    "githubUrl": "https://github.com/yourusername/lawyer-app",
+    "liveUrl": "https://my-lawfirm.netlify.app/"
+  },
+  {
+    "id": 6,
+    "title": "VolunteerHub",
+    "description": "NGO Volunteer Management System",
+    "fullDescription": "Built for managing volunteer applications, events, and reports for a social organization. Includes admin controls, volunteer profiles, and responsive UI.",
+    "technologies": ["React", "Firebase", "Tailwind CSS", "DaisyUI", "Vite", "MongoDB", "Framer Motion", "Node.js"],
+    "image": "/VoleenterHub/Home.png",
+    "additionalImages": ["/VoleenterHub/Card.png", "/VoleenterHub/Manage.png"],
+    "features": [
+      "Volunteer registration and tracking",
+      "Event creation and reports",
+      "Admin dashboard with analytics",
+      "Mobile-responsive layout"
+    ],
+    "challenges": [
+      {
+        "problem": "Real-time updates for volunteer lists",
+        "solution": "Used Firebase real-time listeners for dynamic updates"
+      }
+    ],
+    "githubUrl": "https://github.com/tazminur12/volunteerhub",
+    "liveUrl": "https://volunteerhub2.netlify.app/"
+  }
+]
